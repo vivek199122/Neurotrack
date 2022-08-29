@@ -1,0 +1,30 @@
+20:30:57,789  INFO WebDriverManager:1014 - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+20:30:58,192  INFO Downloader:128 - Downloading https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+20:30:58,692  INFO Downloader:183 - Extracting binary from compressed file chromedriver_win32.zip
+20:30:58,845  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+20:31:07,718  INFO NeurotrackHomePage:25 - Resources menu clicked.
+13:29:58,636  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+13:30:17,303  INFO NeurotrackHomePage:25 - Resources menu clicked.
+13:32:16,622  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+13:32:26,448  INFO NeurotrackHomePage:25 - Resources menu clicked.
+15:40:19,308  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+15:40:28,409  INFO NeurotrackHomePage:25 - Resources menu clicked.
+15:40:28,449  INFO ResourcesPage:27 - Total topics counts:- 8
+16:04:11,208  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+16:04:25,074  INFO NeurotrackHomePage:25 - Resources menu clicked.
+16:06:02,701  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+16:06:12,220  INFO NeurotrackHomePage:25 - Resources menu clicked.
+12:40:06,464  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+12:40:20,297  INFO NeurotrackHomePage:25 - Resources menu clicked.
+13:42:03,950  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+13:45:18,535  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+14:07:34,147  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+14:13:17,206  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+14:14:43,155  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+14:17:32,064  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+14:19:41,520  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+14:27:11,275  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+14:29:51,642  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+14:30:48,923  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+14:31:52,986  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
+14:44:05,564  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as C:\Users\Vibhuti\.m2\repository\webdriver\chromedriver\win32\104.0.5112.79\chromedriver.exe
